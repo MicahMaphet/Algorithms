@@ -16,3 +16,7 @@ Levenstin distance works by creating a tree of trying deleting, inserting, and s
 The path ends when one of the strings is empty.
 I used this article for reference in programming.
 https://medium.com/@ethannam/understanding-the-levenshtein-distance-equation-for-beginners-c4285a5604f0
+
+## Binary search
+Binary search is an algorithm that finds a number in a sorted list.
+I referenced this video to make the code more resilient: https://www.youtube.com/watch?v=_eS-nNnkKfI&pp=ygUbYmluYXJ5IHNlYXJjaCBjb21wdXRlciBmaWxl.
