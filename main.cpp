@@ -2,6 +2,7 @@
 #include <string>
 #include "Levenstein.h"
 #include "BinarySearch.h"
+#include "SHA256.h"
 
 int main() {
     // Levenstein Distance
@@ -17,4 +18,5 @@ int main() {
         std::cout << nums[i] << " ";
     }
     std::cout << "\nFound at index: " << binarySearch(nums, find);
+    // SHA256
 }
