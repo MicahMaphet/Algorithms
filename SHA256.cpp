@@ -1,5 +1,7 @@
 #include <iostream>
 
+/* Referenced https://sha256algorithm.com in development */
+
 /* Hs in hexadecimal format calculated by:
    1. first 8 prime numbers
    2. square root of those prime numbers
